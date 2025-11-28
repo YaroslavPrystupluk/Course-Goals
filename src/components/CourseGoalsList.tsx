@@ -1,4 +1,4 @@
-import {FC, ReactNode} from 'react';
+import {type FC, type ReactNode} from 'react';
 import {type CourseGoal as Goal} from "../App.tsx";
 import CourseGoal from "./CourseGoal.tsx";
 import InfoBox from "./InfoBox.tsx";

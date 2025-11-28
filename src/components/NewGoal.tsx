@@ -1,4 +1,4 @@
-import {FC, FormEvent, useRef} from 'react';
+import {type FC, FormEvent, useRef} from 'react';
 import {type CourseGoal} from "../App.tsx";
 
 type Props = {
